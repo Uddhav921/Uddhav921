@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Uddhav Tour
+# Hi there 👋, I'm Uddhav Taur
 
 👨‍💻 **Full-Stack Developer | Passionate Coder | Open-Source Contributor**
 
