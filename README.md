@@ -41,7 +41,7 @@ I'm a full-stack developer specializing in building web applications and backend
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/uddhav-tour-865a03331
+- LinkedIn: https://www.linkedin.com/in/uddhav-tour-0279a4377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: uddhavtour6@gmail.com
 
 ---
